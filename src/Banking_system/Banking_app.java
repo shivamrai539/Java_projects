@@ -11,7 +11,7 @@ public class Banking_app {
 
     private static final String username = "root";
 
-    private static final String password = "Shivam@2212";
+    private static final String password = "You-Password";
 
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
         try{
